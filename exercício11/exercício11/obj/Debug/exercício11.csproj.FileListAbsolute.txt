@@ -1,0 +1,5 @@
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercício11\exercício11\bin\Debug\exercício11.exe.config
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercício11\exercício11\bin\Debug\exercício11.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercício11\exercício11\bin\Debug\exercício11.pdb
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercício11\exercício11\obj\Debug\exercício11.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercício11\exercício11\obj\Debug\exercício11.pdb
