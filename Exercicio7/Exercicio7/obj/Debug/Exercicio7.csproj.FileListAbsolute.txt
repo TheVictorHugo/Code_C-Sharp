@@ -1,0 +1,5 @@
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe.config
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\Exercicio7\Exercicio7\bin\Debug\Exercicio7.pdb
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\Exercicio7\Exercicio7\obj\Debug\Exercicio7.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\Exercicio7\Exercicio7\obj\Debug\Exercicio7.pdb
