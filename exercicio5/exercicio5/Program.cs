@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Ler um número inteiro e imprimi-lo.
 namespace exercicio5
 {
     class Program

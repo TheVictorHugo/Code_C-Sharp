@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+//Ler dois números inteiros e imprimi-los.
 namespace Exercicio6
 {
     class Program

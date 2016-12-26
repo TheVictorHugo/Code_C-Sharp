@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Ler um número inteiro e imprimir seu sucessor e seu antecessor.
 namespace Exercicio7
 {
     class Program

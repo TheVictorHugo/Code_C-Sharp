@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Imprimir a mensagem: “É PRECISO FAZER TODOS OS EXERCÍCIOS PARA APRENDER”
 namespace HelloWorld
 {
     class Program

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Criar um algoritmo que imprima o produto(multiplicação) entre 28 e 43.
 namespace Exercicio3
 {
     class Program

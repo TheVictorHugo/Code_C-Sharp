@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Criar um algoritmo que imprima a média aritmética entre os números 8, 9 e 7.
 namespace Exerccicio4
 {
     class Program
