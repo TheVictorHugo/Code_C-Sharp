@@ -1,0 +1,5 @@
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exerccicio4\Exerccicio4\bin\Debug\Exerccicio4.exe.config
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exerccicio4\Exerccicio4\bin\Debug\Exerccicio4.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exerccicio4\Exerccicio4\bin\Debug\Exerccicio4.pdb
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exerccicio4\Exerccicio4\obj\Debug\Exerccicio4.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exerccicio4\Exerccicio4\obj\Debug\Exerccicio4.pdb

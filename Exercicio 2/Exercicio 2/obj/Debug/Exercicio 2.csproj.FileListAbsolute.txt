@@ -1,0 +1,5 @@
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe.config
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.pdb
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.pdb
