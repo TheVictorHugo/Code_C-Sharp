@@ -1,0 +1,6 @@
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio13\exercicio13\bin\Debug\exercicio13.exe.config
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio13\exercicio13\obj\Debug\exercicio13.csprojResolveAssemblyReference.cache
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio13\exercicio13\bin\Debug\exercicio13.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio13\exercicio13\bin\Debug\exercicio13.pdb
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio13\exercicio13\obj\Debug\exercicio13.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio13\exercicio13\obj\Debug\exercicio13.pdb

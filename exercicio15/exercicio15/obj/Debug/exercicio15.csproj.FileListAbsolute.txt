@@ -1,0 +1,5 @@
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio15\exercicio15\bin\Debug\exercicio15.exe.config
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio15\exercicio15\bin\Debug\exercicio15.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio15\exercicio15\bin\Debug\exercicio15.pdb
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio15\exercicio15\obj\Debug\exercicio15.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicio15\exercicio15\obj\Debug\exercicio15.pdb
