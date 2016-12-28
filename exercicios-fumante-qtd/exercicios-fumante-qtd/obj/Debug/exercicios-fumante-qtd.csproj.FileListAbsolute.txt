@@ -1,0 +1,6 @@
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicios-fumante-qtd\exercicios-fumante-qtd\bin\Debug\exercicios-fumante-qtd.exe.config
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicios-fumante-qtd\exercicios-fumante-qtd\bin\Debug\exercicios-fumante-qtd.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicios-fumante-qtd\exercicios-fumante-qtd\bin\Debug\exercicios-fumante-qtd.pdb
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicios-fumante-qtd\exercicios-fumante-qtd\obj\Debug\exercicios-fumante-qtd.csprojResolveAssemblyReference.cache
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicios-fumante-qtd\exercicios-fumante-qtd\obj\Debug\exercicios-fumante-qtd.exe
+C:\Users\Victor Hugo\Documents\GitHub\Code-C#\Code_C-Sharp\exercicios-fumante-qtd\exercicios-fumante-qtd\obj\Debug\exercicios-fumante-qtd.pdb
